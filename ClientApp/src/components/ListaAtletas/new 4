@@ -1,0 +1,6 @@
+
+
+     <ShowListaAtletas atletas={this.state.atletas} />
+	 
+	          <br></br>
+            <Child doWhatever={this.changeTheWorld.bind(this, 'It Will be better!')} title={this.state.title}></Child>
